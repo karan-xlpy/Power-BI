@@ -1,4 +1,4 @@
-# 📊 Power BI HR Analytics Project  
+# Power BI HR Analytics Project  
 *(PwC Switzerland – Forage Virtual Job Simulation)*
 
 ## Project Overview
